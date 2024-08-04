@@ -1,9 +1,9 @@
 <?php
 
-    namespace App\src\Abstract_Factory_Pattern\factories;
+    namespace App\src\Creational\Abstract_Factory_Pattern\factories;
 
-    use App\src\Abstract_Factory_Pattern\buttons\WindowButton;
-    use App\src\Abstract_Factory_Pattern\checkboxs\WindowCheckbox;
+    use App\src\Creational\Abstract_Factory_Pattern\buttons\WindowButton;
+    use App\src\Creational\Abstract_Factory_Pattern\checkboxs\WindowCheckbox;
 
     class WindowFactory implements GUIFactory
     {

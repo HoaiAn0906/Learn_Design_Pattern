@@ -1,6 +1,6 @@
 <?php
 
-    namespace App\src\Abstract_Factory_Pattern\factories;
+    namespace App\src\Creational\Abstract_Factory_Pattern\factories;
 
     interface GUIFactory
     {

@@ -1,7 +1,7 @@
 <?php
     require './src/bootstrap.php';
 
-    use App\src\Factory_Method_Pattern\ShapeFactory;
+    use App\src\Creational\Factory_Method_Pattern\ShapeFactory;
 
     $shapeFactory = new ShapeFactory(); 
     

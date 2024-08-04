@@ -1,6 +1,6 @@
 <?php
 
-    namespace App\src\Factory_Method_Pattern;
+    namespace App\src\Creational\Factory_Method_Pattern;
 
     class ShapeFactory
     {

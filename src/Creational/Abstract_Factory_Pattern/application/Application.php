@@ -1,10 +1,10 @@
 <?php
 
-    namespace App\src\Abstract_Factory_Pattern\application;
+    namespace App\src\Creational\Abstract_Factory_Pattern\application;
 
-    use App\src\Abstract_Factory_Pattern\buttons\Button;
-    use App\src\Abstract_Factory_Pattern\checkboxs\Checkbox;
-    use App\src\Abstract_Factory_Pattern\factories\GUIFactory;
+    use App\src\Creational\Abstract_Factory_Pattern\buttons\Button;
+    use App\src\Creational\Abstract_Factory_Pattern\checkboxs\Checkbox;
+    use App\src\Creational\Abstract_Factory_Pattern\factories\GUIFactory;
 
     class Application
     {

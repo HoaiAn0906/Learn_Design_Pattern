@@ -1,11 +1,11 @@
 <?php
 
-    namespace App\src\Abstract_Factory_Pattern;
+    namespace App\src\Creational\Abstract_Factory_Pattern;
     require './src/bootstrap.php';
 
-    use App\src\Abstract_Factory_Pattern\application\Application;
-    use App\src\Abstract_Factory_Pattern\factories\LinuxFactory;
-    use App\src\Abstract_Factory_Pattern\factories\WindowFactory;
+    use App\src\Creational\Abstract_Factory_Pattern\application\Application;
+    use App\src\Creational\Abstract_Factory_Pattern\factories\LinuxFactory;
+    use App\src\Creational\Abstract_Factory_Pattern\factories\WindowFactory;
 
     /*
     Abstract Factory Pattern (Creational Design Patterns)

@@ -1,6 +1,6 @@
 <?php
 
-    namespace App\src\Abstract_Factory_Pattern\checkboxs;
+    namespace App\src\Creational\Abstract_Factory_Pattern\checkboxs;
 
     interface Checkbox
     {

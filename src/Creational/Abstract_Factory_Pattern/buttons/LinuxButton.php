@@ -1,6 +1,6 @@
 <?php
 
-    namespace App\src\Abstract_Factory_Pattern\buttons;
+    namespace App\src\Creational\Abstract_Factory_Pattern\buttons;
 
     class LinuxButton implements Button
     {
